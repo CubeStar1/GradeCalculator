@@ -30,4 +30,3 @@ def cgpa_page():
     print(sgpa)
 
 
-cgpa_page()

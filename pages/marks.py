@@ -222,4 +222,3 @@ def marks_entry_page():
             print(marks_df)
 
 
-marks_entry_page()
